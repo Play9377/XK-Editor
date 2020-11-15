@@ -1,0 +1,61 @@
+{
+  "name": "xkeditor",
+  "version": "1.5.5",
+  "description": "An Editor Supporting Rich Text and Markdown",
+  "author": "syfxlin <syfxlin@gmail.com>",
+  "private": false,
+  "scripts": {
+    "dev": "npm run serve",
+    "start": "npm run serve",
+    "test:unit": "vue-cli-service test:unit",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "@fortawesome/free-solid-svg-icons": "^5.11.2",
+    "@fortawesome/vue-fontawesome": "^0.1.8",
+    "axios": "^0.18.0",
+    "core-js": "^3.6.4",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.2.0",
+    "@vue/cli-plugin-eslint": "^4.2.0",
+    "@vue/cli-plugin-unit-jest": "^4.2.0",
+    "@vue/cli-service": "^4.2.0",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "@vue/test-utils": "1.0.0-beta.31",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.7.2",
+    "eslint-plugin-html": "^6.0.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-vue": "^6.1.2",
+    "node-sass": "^4.12.0",
+    "prettier": "^1.19.1",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syfxlin/xkeditor.git"
+  },
+  "keywords": [
+    "markdown",
+    "markdown-editor",
+    "editor",
+    "md",
+    "vue"
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/syfxlin/xkeditor/issues"
+  },
+  "homepage": "https://github.com/syfxlin/xkeditor#readme"
+}

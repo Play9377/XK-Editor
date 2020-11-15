@@ -1,0 +1,170 @@
+.graff-main {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.graff-main input {
+  background: #fff;
+  background-image: none;
+  background-image: none;
+  border: 0.05rem solid #bcc3ce;
+  border-radius: 0.1rem;
+  color: #3b4351;
+  display: block;
+  font-size: 0.8rem;
+  height: 1.8rem;
+  line-height: 1.2rem;
+  max-width: 100%;
+  outline: 0;
+  padding: 0.25rem 0.4rem;
+  position: relative;
+  transition: background 0.2s, border 0.2s, box-shadow 0.2s, color 0.2s;
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 0.5rem;
+}
+
+.graff-main select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: 0.05rem solid #bcc3ce;
+  border-radius: 0.1rem;
+  color: inherit;
+  font-size: 0.8rem;
+  height: 1.8rem;
+  line-height: 1.2rem;
+  outline: 0;
+  padding: 0.25rem 0.4rem;
+  vertical-align: middle;
+  width: 100%;
+  background: #fff
+    url("data:image/svg+xml;charset=utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%204%205'%3E%3Cpath%20fill='%23667189'%20d='M2%200L0%202h4zm0%205L0%203h4z'/%3E%3C/svg%3E")
+    no-repeat right 0.35rem center/.4rem 0.5rem;
+  padding-right: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.graff-container {
+  width: 80%;
+  background-color: #fff;
+  padding: 1.5rem;
+  border: 1px solid #6190e8;
+}
+
+.graff-main .title,
+.graff-main .container {
+  left: 50%;
+  transform: translateX(-50%);
+  position: relative;
+  width: 1080px;
+  max-width: 96%;
+}
+
+.graff-main .title h1 {
+  margin-bottom: 10px;
+}
+
+.graff-main .title h5 {
+  margin: 5px 0px;
+}
+
+.graff-main .title h5 a {
+  color: #6190e8;
+}
+
+.graff-main .active {
+  color: #6190e8;
+}
+
+.graff-main .svg-container {
+  float: left;
+  height: 500px;
+  width: 70%;
+}
+
+.graff-main #graff-svg {
+  border: 1.5px solid #6190e8;
+  cursor: crosshair;
+  padding: 0px;
+  touch-action: none;
+  background-image: url("/static/grid.png");
+  width: 100%;
+  height: 100%;
+}
+
+.graff-main .svg-button {
+  border: 1.5px solid #6190e8;
+  border-left: none;
+  float: left;
+  height: 500px;
+  width: 30%;
+  padding: 6px 16px;
+  box-sizing: border-box;
+  user-select: none;
+  overflow-y: auto;
+}
+
+.graff-main .svg-button h3 {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.graff-main .svg-button > div {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.graff-main .svg-button > div div {
+  display: inline-block;
+  margin-right: 10px;
+  font-size: 15px;
+  cursor: default;
+}
+
+.graff-main .svg-button > div div:hover {
+  color: rgba(97, 144, 232, 0.63);
+}
+
+.graff-main .svg-button > div span {
+  font-size: 13px;
+}
+
+.graff-main .svg-button .can-color li {
+  border: 1.5px solid #ddd;
+  width: 20px;
+  height: 10px;
+}
+
+.graff-main .svg-button .can-size .small {
+  font-size: 12px;
+}
+.graff-main .svg-button .can-size .middle {
+  font-size: 16px;
+}
+.graff-main .svg-button .can-size .big {
+  font-size: 18px;
+}
+
+.graff-main .svg-btn svg {
+  width: 1rem !important;
+  padding-right: 0.1rem;
+  height: 0.9rem;
+}
+
+.graff-main #images {
+  padding-top: 10px;
+  clear: both;
+}
+
+.graff-main #images textarea {
+  border: 1.5px solid #6190e8;
+}
