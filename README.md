@@ -284,7 +284,7 @@ var data = {
 
 XK-Editor 由 [Otstar Lin](https://www.cnblogs.com/ECJTUACM-1435867846) 和下列 [贡献者](https://github.com/Xyx520999/XK-Editor) 的帮助下撰写和维护。
 
-> Otstar Lin - [Personal Website](https://ixk.me/) · [Blog](https://www.cnblogs.com/ECJTUACM-1435867846) · [Github](https://github.com/Xyx520999)
+> Otstar Lin - [Blog](https://www.cnblogs.com/ECJTUACM-1435867846) · [Github](https://github.com/Xyx520999)
 
 ## 许可证 License
 
@@ -294,5 +294,5 @@ XK-Editor 由 [Otstar Lin](https://www.cnblogs.com/ECJTUACM-1435867846) 和下�
 
 ## 渲染 Render
 
-![xkeditor01.png](https://github.com/Xyx520999/XK-Editor/xkeditor01.png)
-![xkeditor02.png](https://https://github.com/Xyx520999/XK-Editor/xkeditor02.png)
+![xkeditor01.png]https://github.com/Xyx520999/XK-Editor/blob/master/xkeditor01.png)
+![xkeditor02.png](https://github.com/Xyx520999/XK-Editor/blob/master/xkeditor02.png)
