@@ -294,5 +294,5 @@ XK-Editor 由 [Otstar Lin](https://www.cnblogs.com/ECJTUACM-1435867846) 和下�
 
 ## 渲染 Render
 
-![xkeditor01.png]https://github.com/Xyx520999/XK-Editor/blob/master/xkeditor01.png)
-![xkeditor02.png](https://github.com/Xyx520999/XK-Editor/blob/master/xkeditor02.png)
+![xkeditor01.png](https://xyx520999.github.io/XK-Editor/xkeditor01.png)
+![xkeditor02.png]https://xyx520999.github.io/XK-Editor/xkeditor02.png)
