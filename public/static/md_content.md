@@ -333,4 +333,4 @@ XK-Editor 提供了一个简短的语法，这样就不用写 HTML 标签了
 
 如果需要引用外部的部分支持的类型文件也可以用简便的语法，目前仅支持 iframe，markdown 和 code 不久后也会得到支持
 
-[inc=iframe](https://ixk.me ":width=100%;height=500px|title")
+[inc=iframe](https://www.cnblogs.com/ECJTUACM-1435867846/ ":width=100%;height=500px|title")
