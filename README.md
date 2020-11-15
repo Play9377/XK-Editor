@@ -55,10 +55,6 @@ XK-Editor 支持富文本编辑和 Markdown ，同时可以在 Markdown 和 HTML
 - [图片上传] 支持图片上传
 - 还有多种神奇的功能等待你的发掘。
 
-## 演示 Demo
-
-[XK-Editor](https://xkeditor.ixk.me/)
-
 ## 安装 Install
 
 ### 注意事项
